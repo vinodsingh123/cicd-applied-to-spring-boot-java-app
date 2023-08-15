@@ -1,1 +1,8 @@
+#we are using 
+language: java
+
+#we added java developement kit
+jdk:
+- openjdk11
+
 
